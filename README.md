@@ -2,8 +2,7 @@
 
 A simple command-line tool to track what you need to do, what you're working on, and what you've finished. No external libraries — just plain Node.js.
 
-This README is written for total beginners, so it explains not just *how* to run the commands but *what's actually happening* when you do.
-
+Project URL: https://roadmap.sh/projects/task-tracker
 ---
 
 ## What is this, really?
